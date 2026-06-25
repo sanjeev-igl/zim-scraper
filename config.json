@@ -1,0 +1,15 @@
+{
+  "search": {
+    "origin": "INNSA",
+    "destination": "CNSHA",
+    "container_type": "DV40",
+    "quantity": 1
+  },
+  "start_url": "",
+  "manual_mode": true,
+  "headless": false,
+  "slow_mo_ms": 300,
+  "debug": true,
+  "max_pages": 100,
+  "timeout_seconds": 600
+}
